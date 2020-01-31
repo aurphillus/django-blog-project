@@ -1,2 +1,2 @@
 # django-blog-project
- A Blog created in django
+A blog creaed using Django
